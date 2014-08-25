@@ -1,0 +1,128 @@
+/*
+* Skeleton V1.2
+* Copyright 2011, Dave Gamache
+* www.getskeleton.com
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+* 6/20/2012
+*/
+
+/* Table of Content
+==================================================
+	#Site Styles
+	#Page Styles
+	#Media Queries
+	#Font-Face */
+
+/* #Site Styles
+================================================== */
+* {
+
+		-moz-box-sizing: border-box;
+		-webkit-box-sizing: border-box;
+		box-sizing: border-box;
+}
+
+/*bands*/
+
+.band {
+	padding: 49px 0px 0px 49px;
+
+
+}
+
+.band.header {
+
+}
+
+.band.photohead {
+	margin-top: -60px;
+
+
+
+}
+
+.band.pizza {
+background-size: contain;
+margin-top: -25px;
+
+}
+
+.band.text {
+
+
+}
+
+.band.recipe-text {
+
+
+	font-family: 'Indie Flower', cursive;
+	font-size: 30px;
+	margin-top: -160px;
+	margin-right: -65px;
+}
+
+.band.recipe-text2 {
+	margin-top: 100px;
+}
+
+.band.footer {
+	margin-left: -100px;
+	font-family: 'Oswald', sans-serif;
+	font-size: 20px;
+
+}
+
+.share {
+
+	background-color: #DA6A45;
+	color: white;
+	text-align:center;
+	vertical-align:middle
+	background: 100px;
+
+}
+
+.headertext {
+	padding: -40px 2px 3px -10px;
+	font-family: 'Yellowtail', cursive bold;
+	font-weight: bold;
+	margin: 0px 0px 0px 0px
+
+}
+
+p.small {
+    font-variant: small-caps;
+    margin: -10px 2px 3px 0px;
+}
+
+
+.chocpizza {
+	font-family: 'Oswald', sans-serif;
+}
+
+.row.pos.righ {
+ position: relative;
+ left: 2px;
+ padding: relative;
+ font-size: 10px;
+
+}
+.strike{
+text-decoration: line-through;
+}
+
+.icons {
+	padding-left: 200px;
+}
+.handwriting {
+	margin-top: -90px;
+	margin-right: 0px
+	text-align: left;
+}
+
+.handwriting2 {
+	margin-top: 0px;
+	margin-right: 0px
+	text-align: right;
+}
